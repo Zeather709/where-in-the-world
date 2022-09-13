@@ -1,0 +1,26 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --bfile zeather_tg
+  --make-rel
+  --out tg_relatives
+
+Hostname: pop-os
+Working directory: /home/zeather/repos/where-in-the-world
+Start time: Mon Aug  8 15:24:02 2022
+
+Random number seed: 1659981242
+39994 MB RAM detected; reserving 19997 MB for main workspace.
+538164 variants loaded from .bim file.
+1093 people (525 males, 568 females) loaded from .fam.
+Using up to 8 threads (change this with --threads).
+Before main variant filters, 1084 founders and 9 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999865.
+538164 variants and 1093 people pass filters and QC.
+Note: No phenotypes present.
+Excluding 14918 variants on non-autosomes from relationship matrix calc.
+Relationship matrix calculation complete.
+Relationship matrix written to tg_relatives.rel , and IDs written to
+tg_relatives.rel.id .
+
+End time: Mon Aug  8 15:24:16 2022

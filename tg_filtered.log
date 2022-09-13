@@ -1,0 +1,27 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --bfile tg_filtered
+  --exclude zeather_tg-merge.missnp
+  --make-bed
+  --out tg_filtered
+
+Hostname: pop-os
+Working directory: /home/zeather/repos/where-in-the-world
+Start time: Mon Aug  8 15:18:37 2022
+
+Random number seed: 1659980917
+39994 MB RAM detected; reserving 19997 MB for main workspace.
+Warning: --make-bed input and output filenames match.  Appending '~' to input
+filenames.
+538219 variants loaded from .bim file.
+1092 people (525 males, 567 females) loaded from .fam.
+--exclude: 538164 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1083 founders and 9 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999879.
+538164 variants and 1092 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to tg_filtered.bed + tg_filtered.bim + tg_filtered.fam ... done.
+
+End time: Mon Aug  8 15:18:38 2022
